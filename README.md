@@ -1,2 +1,2 @@
 # ebacexercicio
-Exercícios EBAC
+Exercícios EBAC - Gherkin
