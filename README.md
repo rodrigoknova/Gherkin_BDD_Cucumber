@@ -1,2 +1,2 @@
 # ebacexercicio
-Exercícios EBAC - Gherkin
+Exercícios EBAC - Gherkin-BDD-Cucumber
